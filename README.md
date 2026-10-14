@@ -8,3 +8,7 @@ User can use equip items
 User can fight
 User can defend
 User can level up
+
+
+# How to run
+node dist/game.js
